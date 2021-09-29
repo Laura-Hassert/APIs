@@ -1,0 +1,9 @@
+body {
+    background: 'gray';
+}
+
+#button {
+    background: gold;
+    color: black;
+    border-radius: 10px;
+}
